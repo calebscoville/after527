@@ -1,0 +1,17 @@
+.header {
+    background-color: opaque;
+    height: 100px;
+    width: 100%;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
+
+h3 {
+    color: #FED136;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 28px;
+}
